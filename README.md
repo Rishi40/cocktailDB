@@ -1,7 +1,6 @@
 # cocktailDB
 
-1. Navigate to the setup folder using cd.
-cd setup
+1. Navigate to the setup folder using cd
 
 2. run 'npm install' to install all the package dependecies
 
